@@ -1,1 +1,5 @@
-"# Login_Nodejs_Passport" 
+Login Simple with Nodejs, Express, Passport.
+
+Curso Nodejs.
+
+Author: Fazt.
